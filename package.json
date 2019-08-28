@@ -1,0 +1,12 @@
+{
+  "name": "bot-test",
+  "version": "0.1.0",
+  "description": "Projet de test",
+  "main": "main.js",
+  "repository": "https://github.com/Neexona/bot-testing.git",
+  "author": "<lima.alpha81@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
